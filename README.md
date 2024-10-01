@@ -10,3 +10,11 @@ In here, you will find different iterations of the cover art that range from:
 
 # Ordering a Copy
 WIP 
+
+# Submitting a Custom Cover
+
+If you are submitting a custom cover art, we ask that you follow these rules:
+
+1. Tracklist art (back jacket, cassette box cover, j card) must have two versions of the genius and the leaker's tracklist.
+
+# Credits
