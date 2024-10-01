@@ -19,6 +19,23 @@ WIP
 
 If you are submitting a custom cover art, we ask that you follow these rules:
 
-1. Tracklist art (back jacket, cassette box cover, j card) must have two versions of the genius and the leaker's tracklist.
+1. Tracklist art (back jacket, cassette box cover, j card) must have two versions of the genius and the leaker's tracklist. Exceptions to this rule are for those who participated in the original RAR archive.
+
+More rules will be updated soon.
 
 # Credits
+- u/AlphaaReformed
+  * Compilation of Covers
+- jxn#6354 | 577175617103986708 / u/jonatanr819
+  * Modified Covers
+  * CD Covers
+  * Vinyl Covers (recreated by FERIVOQ)
+- gibbalisious (genius)
+  * Vinyl Covers
+  * Upscaled Covers
+  * Unofficial Covers (Back Jacket / Front Jacket)
+  * Cassette Covers
+- u/Ferivoq
+  * CD Covers (recreated jonatanr's cover)
+  * Vinyl Covers (recreated jonatanr's cover)
+  * Custom Cover Assets (recreated cover art, figma)
