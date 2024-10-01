@@ -8,6 +8,7 @@ In here, you will find different iterations of the cover art that range from:
 - Custom Vinyl Covers
 - Asset pack to create a custom cover art (upscaled cover arts, recreated cover arts, velvet background)
 
+## Contact
 If you wish to learn more about Shiloh Dynasty and Tastes Like Velvet, you can check the following links below:
 - https://reddit.com/r/ShilohDynasty
 - https://discord.gg/shiloh-dynasty-official-545706017435156490
