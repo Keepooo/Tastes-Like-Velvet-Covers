@@ -14,7 +14,21 @@ If you wish to learn more about Shiloh Dynasty and Tastes Like Velvet, you can c
 - https://discord.gg/shiloh-dynasty-official-545706017435156490
 
 # Ordering a Copy
-WIP 
+Ordering a Copy can be quite a daunting task for newcomers, but we'll provide some helpful
+
+## Instructions
+
+1. Find a vendor that makes custom CDs, cassettes, or vinyl (scroll down below for options).
+2. Go to the Tracklist folder to copy paste the Genius Tracklist or the Leaker tracklist. This is up to personal preference.
+3. Choose a cover art folder that matches the type of physical copy that you want to purchase.
+4. Download the cover art
+5. Provide (or upload) the cover art and audios to the vendor (depending on what type of vendor it is).
+6. Checkout with the vendor.
+7. Done. You now have your own physical copy of TLV.
+
+### Option 1: Find a Local Vendor
+
+WIP
 
 # Submitting a Custom Cover
 
