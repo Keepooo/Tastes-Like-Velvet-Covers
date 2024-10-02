@@ -28,7 +28,12 @@ Ordering a Copy can be quite a daunting task for newcomers, but we'll provide so
 
 ### Option 1: Find a Local Vendor
 
-WIP
+You can find a local vendor in your city (or the nearest one) and is considered significantly cheaper than
+WIP.
+
+### Option 2: Online Vendors
+
+WIP.
 
 # Submitting a Custom Cover
 
