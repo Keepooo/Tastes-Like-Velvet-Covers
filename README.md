@@ -3,7 +3,7 @@ This is an archive of the custom covers that supporters have made for people to 
 
 In here, you will find different iterations of the cover art that range from:
 - Original cover art of Tastes Like Velvet
-- Custom Cassette Covers
+- Custom Cassette Covers (coming soon)
 - Custom CD Covers
 - Custom Vinyl Covers
 - Asset pack to create a custom cover art (upscaled cover arts, recreated cover arts, velvet background)
@@ -26,14 +26,20 @@ Ordering a Copy can be quite a daunting task for newcomers, but we'll provide so
 6. Checkout with the vendor.
 7. Done. You now have your own physical copy of TLV.
 
+**Alternative Steps:**
+1. You are able to buy the vinyl / cd sleeve separate from the vinyl / cd if you want to cut costs.
+
 ### Option 1: Find a Local Vendor
 
-You can find a local vendor in your city (or the nearest one) and is considered significantly cheaper than
-WIP.
+You can find a local vendor in your city (or the nearest one) and is considered significantly cheaper than online vendors. You can search this up on a search engine by inputting the city and the custom copy vendor (<city> custom vinyl).
 
 ### Option 2: Online Vendors
 
-WIP.
+WIP
+
+### Option 3: Making the Copy Yourself (CDs / Cassettes)
+
+WIP
 
 # Submitting a Custom Cover
 
@@ -46,7 +52,7 @@ More rules will be updated soon.
 # Credits
 - u/AlphaaReformed
   * Compilation of Covers
-- jxn#6354 | 577175617103986708 / u/jonatanr819
+- jxn#6354 | 577175617103986708 / u/jonatanr819 (deleted / deactivated)
   * Modified Covers
   * CD Covers
   * Vinyl Covers (recreated by FERIVOQ)
